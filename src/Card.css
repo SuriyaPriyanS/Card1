@@ -1,0 +1,44 @@
+/* card.css */
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 50px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  color: #7a7777;
+}
+
+.card-price {
+  font-size: 1.25rem;
+  color: #007bff;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.card ul li {
+  margin-bottom: 10px;
+  font-size: 1rem;
+}
+
+.card ul li .fa-li {
+  width: 2rem;
+}
+
+.card .btn {
+  width: 100%;
+}
+.fas fa-times1{
+
+  color: #9b9797;
+}
