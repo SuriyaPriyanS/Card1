@@ -38,7 +38,10 @@
 .card .btn {
   width: 100%;
 }
-.fas fa-times1{
+/* .fas fa-times1{
 
-  color: #9b9797;
+  color: #615d5d;
+} */
+.text-musted{
+  color: #615d5d;
 }

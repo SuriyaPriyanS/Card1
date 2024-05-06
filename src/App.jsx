@@ -25,10 +25,10 @@ const App = () => {
         { icon: "fas fa-check", text: "5GB Storage" },
         { icon: "fas fa-check", text: "Unlimited Public Projects" },
         { icon: "fas fa-check", text: "Community Access" },
-        { icon: "fas fa-times1", text: "Unlimited Private Projects", className: "text-muted" },
-        { icon: "fas fa-times1", text: "Dedicated Phone Support", className: "text-muted" },
-        { icon: "fas fa-times1", text: "Free Subdomain", className: "text-muted" },
-        { icon: "fas fa-times1", text: "Monthly Status Reports", className: "text-muted" }
+        { icon: "fas fa-times", text: "Unlimited Private Projects", className: "text-muted" },
+        { icon: "fas fa-times", text: "Dedicated Phone Support", className: "text-muted" },
+        { icon: "fas fa-times", text: "Free Subdomain", className: "text-muted" },
+        { icon: "fas fa-times", text: "Monthly Status Reports", className: "text-muted1" }
       ]
     },
     {
